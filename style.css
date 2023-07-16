@@ -1,0 +1,16 @@
+body {
+    background: #1d2630;
+    font-family: 'Bruno Ace', cursive;
+}
+
+* {
+    color: #fff;
+}
+
+#update {
+    display: none;
+}
+
+.container {
+    text-align: center;
+}
